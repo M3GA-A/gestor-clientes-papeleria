@@ -56,3 +56,15 @@ python3 cliente.py
 - El archivo `clientes.json` se crea o actualiza automáticamente cuando se guardan clientes.
 - El archivo `datos_papeleria.json` se utiliza para almacenar usuarios registrados.
 - Si `clientes.json` o `datos_papeleria.json` no existen, la aplicación los crea cuando es necesario.
+
+
+<img width="1127" height="881" alt="iniciar_sesion" src="https://github.com/user-attachments/assets/c4d592e3-9f87-44c7-8288-344c16c476f2" />
+
+
+<img width="1136" height="876" alt="dash_gestion" src="https://github.com/user-attachments/assets/ce82cf2d-51d6-4dd5-93a4-41a777c5693b" />
+
+
+<img width="1132" height="878" alt="gestion_clientes" src="https://github.com/user-attachments/assets/2de164c8-f4e1-407b-91a1-a1c8b0794c17" />
+
+
+
