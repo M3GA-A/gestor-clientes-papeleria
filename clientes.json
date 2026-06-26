@@ -1,0 +1,826 @@
+[
+    {
+        "nombre": "Alejandro",
+        "apellido": "Ruiz",
+        "fecha_pedido": "01/05/2026",
+        "productos": [
+            {
+                "articulo": "Cuaderno A4",
+                "precio": 4.0
+            },
+            {
+                "articulo": "Grapadora",
+                "precio": 6.0
+            },
+            {
+                "articulo": "Tijeras escolares",
+                "precio": 1.8
+            }
+        ],
+        "subtotal": 11.8,
+        "iva": 2.478,
+        "suma_pedido": 14.278,
+        "estado": "PENDIENTE",
+        "id": 1
+    },
+    {
+        "nombre": "Beatriz",
+        "apellido": "G\u00f3mez",
+        "fecha_pedido": "02/05/2026",
+        "productos": [
+            {
+                "articulo": "Cartucho de T\u00f3ner Negro",
+                "precio": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "iva": 4.2,
+        "suma_pedido": 24.2,
+        "estado": "PENDIENTE",
+        "id": 2
+    },
+    {
+        "nombre": "Carlos",
+        "apellido": "D\u00edaz",
+        "fecha_pedido": "03/05/2026",
+        "productos": [
+            {
+                "articulo": "Mochila Escolar B\u00e1sica",
+                "precio": 15.0
+            }
+        ],
+        "subtotal": 15.0,
+        "iva": 3.15,
+        "suma_pedido": 18.15,
+        "estado": "ENVIADO",
+        "id": 3
+    },
+    {
+        "nombre": "Diana",
+        "apellido": "Castro",
+        "fecha_pedido": "04/05/2026",
+        "productos": [
+            {
+                "articulo": "Pack de Rotuladores",
+                "precio": 5.5
+            }
+        ],
+        "subtotal": 5.5,
+        "iva": 1.16,
+        "suma_pedido": 6.66,
+        "estado": "CANCELADO",
+        "id": 4
+    },
+    {
+        "nombre": "Eduardo",
+        "apellido": "Mora",
+        "fecha_pedido": "05/05/2026",
+        "productos": [
+            {
+                "articulo": "Pizarra de Corcho 90x60",
+                "precio": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "iva": 6.3,
+        "suma_pedido": 36.3,
+        "estado": "COMPLETADO",
+        "id": 5
+    },
+    {
+        "nombre": "Fernando",
+        "apellido": "Gil",
+        "fecha_pedido": "06/05/2026",
+        "productos": [
+            {
+                "articulo": "Archivador de Palanca",
+                "precio": 12.0
+            }
+        ],
+        "subtotal": 12.0,
+        "iva": 2.52,
+        "suma_pedido": 14.52,
+        "estado": "ENVIADO",
+        "id": 6
+    },
+    {
+        "nombre": "Gabriela",
+        "apellido": "Cruz",
+        "fecha_pedido": "07/05/2026",
+        "productos": [
+            {
+                "articulo": "Destructora de Papel B\u00e1sica",
+                "precio": 50.0
+            }
+        ],
+        "subtotal": 50.0,
+        "iva": 10.5,
+        "suma_pedido": 60.5,
+        "estado": "PENDIENTE",
+        "id": 7
+    },
+    {
+        "nombre": "Hugo",
+        "apellido": "Silva",
+        "fecha_pedido": "08/05/2026",
+        "productos": [
+            {
+                "articulo": "Calculadora de Bolsillo",
+                "precio": 8.0
+            }
+        ],
+        "subtotal": 8.0,
+        "iva": 1.68,
+        "suma_pedido": 9.68,
+        "estado": "COMPLETADO",
+        "id": 8
+    },
+    {
+        "nombre": "Isabel",
+        "apellido": "Vega",
+        "fecha_pedido": "09/05/2026",
+        "productos": [
+            {
+                "articulo": "L\u00e1mpara Flexo LED",
+                "precio": 25.0
+            }
+        ],
+        "subtotal": 25.0,
+        "iva": 5.25,
+        "suma_pedido": 30.25,
+        "estado": "ENVIADO",
+        "id": 9
+    },
+    {
+        "nombre": "Javier",
+        "apellido": "Sanz",
+        "fecha_pedido": "10/05/2026",
+        "productos": [
+            {
+                "articulo": "Silla de Oficina Sencilla",
+                "precio": 40.0
+            }
+        ],
+        "subtotal": 40.0,
+        "iva": 8.4,
+        "suma_pedido": 48.4,
+        "estado": "PENDIENTE",
+        "id": 10
+    },
+    {
+        "nombre": "Karla",
+        "apellido": "Le\u00f3n",
+        "fecha_pedido": "11/05/2026",
+        "productos": [
+            {
+                "articulo": "Cuaderno A4",
+                "precio": 4.0
+            },
+            {
+                "articulo": "Grapadora",
+                "precio": 6.0
+            }
+        ],
+        "subtotal": 10.0,
+        "iva": 2.1,
+        "suma_pedido": 12.1,
+        "estado": "COMPLETADO",
+        "id": 11
+    },
+    {
+        "nombre": "Luis",
+        "apellido": "Pe\u00f1a",
+        "fecha_pedido": "12/05/2026",
+        "productos": [
+            {
+                "articulo": "Cartucho de T\u00f3ner Negro",
+                "precio": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "iva": 4.2,
+        "suma_pedido": 24.2,
+        "estado": "ENVIADO",
+        "id": 12
+    },
+    {
+        "nombre": "Mar\u00eda",
+        "apellido": "Ramos",
+        "fecha_pedido": "13/05/2026",
+        "productos": [
+            {
+                "articulo": "Mochila Escolar B\u00e1sica",
+                "precio": 15.0
+            }
+        ],
+        "subtotal": 15.0,
+        "iva": 3.15,
+        "suma_pedido": 18.15,
+        "estado": "COMPLETADO",
+        "id": 13
+    },
+    {
+        "nombre": "Nicol\u00e1s",
+        "apellido": "Rey",
+        "fecha_pedido": "14/05/2026",
+        "productos": [
+            {
+                "articulo": "Pack de Rotuladores",
+                "precio": 5.5
+            }
+        ],
+        "subtotal": 5.5,
+        "iva": 1.16,
+        "suma_pedido": 6.66,
+        "estado": "PENDIENTE",
+        "id": 14
+    },
+    {
+        "nombre": "Olga",
+        "apellido": "Ortiz",
+        "fecha_pedido": "15/05/2026",
+        "productos": [
+            {
+                "articulo": "Pizarra de Corcho 90x60",
+                "precio": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "iva": 6.3,
+        "suma_pedido": 36.3,
+        "estado": "COMPLETADO",
+        "id": 15
+    },
+    {
+        "nombre": "Pablo",
+        "apellido": "Rubio",
+        "fecha_pedido": "16/05/2026",
+        "productos": [
+            {
+                "articulo": "Archivador de Palanca",
+                "precio": 12.0
+            }
+        ],
+        "subtotal": 12.0,
+        "iva": 2.52,
+        "suma_pedido": 14.52,
+        "estado": "ENVIADO",
+        "id": 16
+    },
+    {
+        "nombre": "Quique",
+        "apellido": "Soria",
+        "fecha_pedido": "17/05/2026",
+        "productos": [
+            {
+                "articulo": "Destructora de Papel B\u00e1sica",
+                "precio": 50.0
+            }
+        ],
+        "subtotal": 50.0,
+        "iva": 10.5,
+        "suma_pedido": 60.5,
+        "estado": "CANCELADO",
+        "id": 17
+    },
+    {
+        "nombre": "Rosa",
+        "apellido": "Vidal",
+        "fecha_pedido": "18/05/2026",
+        "productos": [
+            {
+                "articulo": "Calculadora de Bolsillo",
+                "precio": 8.0
+            }
+        ],
+        "subtotal": 8.0,
+        "iva": 1.68,
+        "suma_pedido": 9.68,
+        "estado": "COMPLETADO",
+        "id": 18
+    },
+    {
+        "nombre": "Sergio",
+        "apellido": "Luna",
+        "fecha_pedido": "19/05/2026",
+        "productos": [
+            {
+                "articulo": "L\u00e1mpara Flexo LED",
+                "precio": 25.0
+            }
+        ],
+        "subtotal": 25.0,
+        "iva": 5.25,
+        "suma_pedido": 30.25,
+        "estado": "PENDIENTE",
+        "id": 19
+    },
+    {
+        "nombre": "Teresa",
+        "apellido": "Soler",
+        "fecha_pedido": "20/05/2026",
+        "productos": [
+            {
+                "articulo": "Silla de Oficina Sencilla",
+                "precio": 40.0
+            }
+        ],
+        "subtotal": 40.0,
+        "iva": 8.4,
+        "suma_pedido": 48.4,
+        "estado": "COMPLETADO",
+        "id": 20
+    },
+    {
+        "nombre": "Ulises",
+        "apellido": "Cano",
+        "fecha_pedido": "21/05/2026",
+        "productos": [
+            {
+                "articulo": "Cuaderno A4",
+                "precio": 4.0
+            },
+            {
+                "articulo": "Grapadora",
+                "precio": 6.0
+            }
+        ],
+        "subtotal": 10.0,
+        "iva": 2.1,
+        "suma_pedido": 12.1,
+        "estado": "ENVIADO",
+        "id": 21
+    },
+    {
+        "nombre": "Valeria",
+        "apellido": "Paz",
+        "fecha_pedido": "22/05/2026",
+        "productos": [
+            {
+                "articulo": "Cartucho de T\u00f3ner Negro",
+                "precio": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "iva": 4.2,
+        "suma_pedido": 24.2,
+        "estado": "PENDIENTE",
+        "id": 22
+    },
+    {
+        "nombre": "Walter",
+        "apellido": "Roca",
+        "fecha_pedido": "23/05/2026",
+        "productos": [
+            {
+                "articulo": "Mochila Escolar B\u00e1sica",
+                "precio": 15.0
+            }
+        ],
+        "subtotal": 15.0,
+        "iva": 3.15,
+        "suma_pedido": 18.15,
+        "estado": "ENVIADO",
+        "id": 23
+    },
+    {
+        "nombre": "Ximena",
+        "apellido": "Arce",
+        "fecha_pedido": "24/05/2026",
+        "productos": [
+            {
+                "articulo": "Pack de Rotuladores",
+                "precio": 5.5
+            }
+        ],
+        "subtotal": 5.5,
+        "iva": 1.16,
+        "suma_pedido": 6.66,
+        "estado": "CANCELADO",
+        "id": 24
+    },
+    {
+        "nombre": "Yago",
+        "apellido": "Pino",
+        "fecha_pedido": "25/05/2026",
+        "productos": [
+            {
+                "articulo": "Pizarra de Corcho 90x60",
+                "precio": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "iva": 6.3,
+        "suma_pedido": 36.3,
+        "estado": "ENVIADO",
+        "id": 25
+    },
+    {
+        "nombre": "Zoe",
+        "apellido": "Arias",
+        "fecha_pedido": "26/05/2026",
+        "productos": [
+            {
+                "articulo": "Archivador de Palanca",
+                "precio": 12.0
+            }
+        ],
+        "subtotal": 12.0,
+        "iva": 2.52,
+        "suma_pedido": 14.52,
+        "estado": "COMPLETADO",
+        "id": 26
+    },
+    {
+        "nombre": "Andr\u00e9s",
+        "apellido": "Mora",
+        "fecha_pedido": "27/05/2026",
+        "productos": [
+            {
+                "articulo": "Destructora de Papel B\u00e1sica",
+                "precio": 50.0
+            }
+        ],
+        "subtotal": 50.0,
+        "iva": 10.5,
+        "suma_pedido": 60.5,
+        "estado": "PENDIENTE",
+        "id": 27
+    },
+    {
+        "nombre": "Blanca",
+        "apellido": "Rius",
+        "fecha_pedido": "28/05/2026",
+        "productos": [
+            {
+                "articulo": "Calculadora de Bolsillo",
+                "precio": 8.0
+            }
+        ],
+        "subtotal": 8.0,
+        "iva": 1.68,
+        "suma_pedido": 9.68,
+        "estado": "COMPLETADO",
+        "id": 28
+    },
+    {
+        "nombre": "C\u00e9sar",
+        "apellido": "Soto",
+        "fecha_pedido": "29/05/2026",
+        "productos": [
+            {
+                "articulo": "L\u00e1mpara Flexo LED",
+                "precio": 25.0
+            }
+        ],
+        "subtotal": 25.0,
+        "iva": 5.25,
+        "suma_pedido": 30.25,
+        "estado": "ENVIADO",
+        "id": 29
+    },
+    {
+        "nombre": "Daniela",
+        "apellido": "Toro",
+        "fecha_pedido": "30/05/2026",
+        "productos": [
+            {
+                "articulo": "Silla de Oficina Sencilla",
+                "precio": 40.0
+            }
+        ],
+        "subtotal": 40.0,
+        "iva": 8.4,
+        "suma_pedido": 48.4,
+        "estado": "COMPLETADO",
+        "id": 30
+    },
+    {
+        "nombre": "Esteban",
+        "apellido": "Vaca",
+        "fecha_pedido": "01/06/2026",
+        "productos": [
+            {
+                "articulo": "Cuaderno A4",
+                "precio": 4.0
+            },
+            {
+                "articulo": "Grapadora",
+                "precio": 6.0
+            }
+        ],
+        "subtotal": 10.0,
+        "iva": 2.1,
+        "suma_pedido": 12.1,
+        "estado": "PENDIENTE",
+        "id": 31
+    },
+    {
+        "nombre": "F\u00e1tima",
+        "apellido": "Roig",
+        "fecha_pedido": "02/06/2026",
+        "productos": [
+            {
+                "articulo": "Cartucho de T\u00f3ner Negro",
+                "precio": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "iva": 4.2,
+        "suma_pedido": 24.2,
+        "estado": "COMPLETADO",
+        "id": 32
+    },
+    {
+        "nombre": "Gonzalo",
+        "apellido": "Mir",
+        "fecha_pedido": "03/06/2026",
+        "productos": [
+            {
+                "articulo": "Mochila Escolar B\u00e1sica",
+                "precio": 15.0
+            }
+        ],
+        "subtotal": 15.0,
+        "iva": 3.15,
+        "suma_pedido": 18.15,
+        "estado": "ENVIADO",
+        "id": 33
+    },
+    {
+        "nombre": "H\u00e9ctor",
+        "apellido": "Saez",
+        "fecha_pedido": "04/06/2026",
+        "productos": [
+            {
+                "articulo": "Pack de Rotuladores",
+                "precio": 5.5
+            }
+        ],
+        "subtotal": 5.5,
+        "iva": 1.16,
+        "suma_pedido": 6.66,
+        "estado": "CANCELADO",
+        "id": 34
+    },
+    {
+        "nombre": "In\u00e9s",
+        "apellido": "Pons",
+        "fecha_pedido": "05/06/2026",
+        "productos": [
+            {
+                "articulo": "Pizarra de Corcho 90x60",
+                "precio": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "iva": 6.3,
+        "suma_pedido": 36.3,
+        "estado": "COMPLETADO",
+        "id": 35
+    },
+    {
+        "nombre": "Jorge",
+        "apellido": "Puig",
+        "fecha_pedido": "06/06/2026",
+        "productos": [
+            {
+                "articulo": "Archivador de Palanca",
+                "precio": 12.0
+            }
+        ],
+        "subtotal": 12.0,
+        "iva": 2.52,
+        "suma_pedido": 14.52,
+        "estado": "ENVIADO",
+        "id": 36
+    },
+    {
+        "nombre": "Laura",
+        "apellido": "Font",
+        "fecha_pedido": "07/06/2026",
+        "productos": [
+            {
+                "articulo": "Destructora de Papel B\u00e1sica",
+                "precio": 50.0
+            }
+        ],
+        "subtotal": 50.0,
+        "iva": 10.5,
+        "suma_pedido": 60.5,
+        "estado": "PENDIENTE",
+        "id": 37
+    },
+    {
+        "nombre": "Marcos",
+        "apellido": "Grau",
+        "fecha_pedido": "08/06/2026",
+        "productos": [
+            {
+                "articulo": "Calculadora de Bolsillo",
+                "precio": 8.0
+            }
+        ],
+        "subtotal": 8.0,
+        "iva": 1.68,
+        "suma_pedido": 9.68,
+        "estado": "COMPLETADO",
+        "id": 38
+    },
+    {
+        "nombre": "Natalia",
+        "apellido": "Vila",
+        "fecha_pedido": "09/06/2026",
+        "productos": [
+            {
+                "articulo": "L\u00e1mpara Flexo LED",
+                "precio": 25.0
+            }
+        ],
+        "subtotal": 25.0,
+        "iva": 5.25,
+        "suma_pedido": 30.25,
+        "estado": "ENVIADO",
+        "id": 39
+    },
+    {
+        "nombre": "\u00d3scar",
+        "apellido": "Mas",
+        "fecha_pedido": "10/06/2026",
+        "productos": [
+            {
+                "articulo": "Silla de Oficina Sencilla",
+                "precio": 40.0
+            }
+        ],
+        "subtotal": 40.0,
+        "iva": 8.4,
+        "suma_pedido": 48.4,
+        "estado": "COMPLETADO",
+        "id": 40
+    },
+    {
+        "nombre": "Paula",
+        "apellido": "Riera",
+        "fecha_pedido": "11/06/2026",
+        "productos": [
+            {
+                "articulo": "Cuaderno A4",
+                "precio": 4.0
+            },
+            {
+                "articulo": "Grapadora",
+                "precio": 6.0
+            }
+        ],
+        "subtotal": 10.0,
+        "iva": 2.1,
+        "suma_pedido": 12.1,
+        "estado": "PENDIENTE",
+        "id": 41
+    },
+    {
+        "nombre": "Ra\u00fal",
+        "apellido": "Costa",
+        "fecha_pedido": "12/06/2026",
+        "productos": [
+            {
+                "articulo": "Cartucho de T\u00f3ner Negro",
+                "precio": 20.0
+            }
+        ],
+        "subtotal": 20.0,
+        "iva": 4.2,
+        "suma_pedido": 24.2,
+        "estado": "COMPLETADO",
+        "id": 42
+    },
+    {
+        "nombre": "Silvia",
+        "apellido": "Serra",
+        "fecha_pedido": "13/06/2026",
+        "productos": [
+            {
+                "articulo": "Mochila Escolar B\u00e1sica",
+                "precio": 15.0
+            }
+        ],
+        "subtotal": 15.0,
+        "iva": 3.15,
+        "suma_pedido": 18.15,
+        "estado": "ENVIADO",
+        "id": 43
+    },
+    {
+        "nombre": "Tom\u00e1s",
+        "apellido": "Sol\u00eds",
+        "fecha_pedido": "14/06/2026",
+        "productos": [
+            {
+                "articulo": "Pack de Rotuladores",
+                "precio": 5.5
+            }
+        ],
+        "subtotal": 5.5,
+        "iva": 1.16,
+        "suma_pedido": 6.66,
+        "estado": "CANCELADO",
+        "id": 44
+    },
+    {
+        "nombre": "\u00darsula",
+        "apellido": "Sala",
+        "fecha_pedido": "15/06/2026",
+        "productos": [
+            {
+                "articulo": "Pizarra de Corcho 90x60",
+                "precio": 30.0
+            }
+        ],
+        "subtotal": 30.0,
+        "iva": 6.3,
+        "suma_pedido": 36.3,
+        "estado": "COMPLETADO",
+        "id": 45
+    },
+    {
+        "nombre": "V\u00edctor",
+        "apellido": "Coll",
+        "fecha_pedido": "16/06/2026",
+        "productos": [
+            {
+                "articulo": "Archivador de Palanca",
+                "precio": 12.0
+            }
+        ],
+        "subtotal": 12.0,
+        "iva": 2.52,
+        "suma_pedido": 14.52,
+        "estado": "ENVIADO",
+        "id": 46
+    },
+    {
+        "nombre": "Alba",
+        "apellido": "Mar\u00edn",
+        "fecha_pedido": "17/06/2026",
+        "productos": [
+            {
+                "articulo": "Destructora de Papel B\u00e1sica",
+                "precio": 50.0
+            }
+        ],
+        "subtotal": 50.0,
+        "iva": 10.5,
+        "suma_pedido": 60.5,
+        "estado": "PENDIENTE",
+        "id": 47
+    },
+    {
+        "nombre": "Rub\u00e9n",
+        "apellido": "Cotes",
+        "fecha_pedido": "18/06/2026",
+        "productos": [
+            {
+                "articulo": "Calculadora de Bolsillo",
+                "precio": 8.0
+            }
+        ],
+        "subtotal": 8.0,
+        "iva": 1.68,
+        "suma_pedido": 9.68,
+        "estado": "COMPLETADO",
+        "id": 48
+    },
+    {
+        "nombre": "Clara",
+        "apellido": "Vega",
+        "fecha_pedido": "19/06/2026",
+        "productos": [
+            {
+                "articulo": "L\u00e1mpara Flexo LED",
+                "precio": 25.0
+            }
+        ],
+        "subtotal": 25.0,
+        "iva": 5.25,
+        "suma_pedido": 30.25,
+        "estado": "ENVIADO",
+        "id": 49
+    },
+    {
+        "nombre": "Diego",
+        "apellido": "Salas",
+        "fecha_pedido": "20/06/2026",
+        "productos": [
+            {
+                "articulo": "Silla de Oficina Sencilla",
+                "precio": 40.0
+            }
+        ],
+        "subtotal": 40.0,
+        "iva": 8.4,
+        "suma_pedido": 48.4,
+        "estado": "COMPLETADO",
+        "id": 50
+    }
+]
